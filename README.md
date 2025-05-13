@@ -1,6 +1,5 @@
 # Payroll System
-
-The Payroll System is a comprehensive software solution designed to efficiently manage employee information, automate payroll calculations, and ensure secure administrative access. Built using C# in Visual Studio and powered by MSSQL, this system provides a seamless, user-friendly interface for efficient payroll management, tailored to meet the needs of any organization.
+A user-friendly payroll system built with C#, MSSQL, and Visual Studio. It allows admins to manage employee data, register new employees, calculate salaries based on attendance, overtime, and deductions, and ensure secure admin access. The system simplifies payroll management, ensuring transparency and security.
 
 ## Key Features
 
